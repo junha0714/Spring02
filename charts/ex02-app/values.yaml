@@ -1,0 +1,9 @@
+pod:
+  name: ex02-app
+
+image:
+  repository: junha714/ex02-app
+  tag: latest
+
+containerPort: 8081
+
